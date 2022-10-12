@@ -7,4 +7,4 @@ Feel free to open issues or message me if you have any questions.
 
 # Main Folder
 
-- PowerShell -> ps1 scripts used ofr Incident Response and alert triage
+- PowerShell -> ps1 scripts used for Investigations and Incident Response.
