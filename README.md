@@ -7,5 +7,5 @@ Feel free to open issues or message me if you have any questions.
 
 
 # Main Folder
-- Get-InboxRules.ps1 - Pulls inbox rules from all AD users. Useful for 365 Audits, as well as Incident Response and Investigations. 
-- Get-InboxRules_NoProgressBar.ps1 - Same as above, just no progress bar (Compatibility). 
+- Get-InboxRules.ps1 - Pulls inbox rules from all AD users' mailboxes. Useful for 365 Audits, as well as Incident Response and Investigations. 
+- Get-InboxRules_NoProgressBar.ps1 - Same as above, just no progress bars (Compatibility). 
