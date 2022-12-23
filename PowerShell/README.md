@@ -9,6 +9,7 @@
 
 ### Office Hardening
 - Office-Macros_Disable_All.ps1 -> Iterate through all SIDs on machine and set appropriate reg keys to disable all Macro functionality.
+  - Office-Macros_Restore_Disabled.ps1 -> Restore all settings/reg keys changed in above script.
 
 
 
