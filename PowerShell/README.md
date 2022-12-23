@@ -28,4 +28,4 @@ LOOK INTO BETTER FORMATTING TABLES, etc
 - [ ] Office Hardening -> Reassess loaded hives code and for loop
 - [ ] Office Hardening -> Test Zone.Identifier for proper Internet Macros blocking
 - [ ] Office Hardening -> error handling for restore scripts
-- [ ] Office Hardening -> Better Test-Path logic; List office products, for loop 
+- [ ] Office Hardening -> Better Test-Path logic; List office products, for loop; re-usable variable
