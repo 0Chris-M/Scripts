@@ -18,3 +18,4 @@
 ### ToDo's
 - [ ] Office Hardening -> Echo script progress and tasks completed
 - [ ] Office Hardening -> Reassess loaded hives code and for loop
+- [ ] Office Hardening -> Test Zone.Identifier for proper Internet Macros blocking
