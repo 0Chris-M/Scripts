@@ -1,6 +1,6 @@
 ## Powershell Scripts (.ps1, .psm1, .psd1, etc)
 
-LOOK INTO BETTER FORMATTING TABLES, etc
+
 
 ### Auditing
 Scripts used to audit Microsoft environments and Windows machines. 
