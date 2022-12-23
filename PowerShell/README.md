@@ -13,4 +13,4 @@
 
 
 ### ToDo's
-- [X] Add blahblah
+- [ ] Office Hardening -> Echo script progress and tasks completed 
