@@ -9,3 +9,8 @@
 
 ### Office Hardening
 - Office Macros - Disable All.ps1 -> Iterate through all SIDs on machine and set appropriate reg keys to disable all Macro functionality.
+
+
+
+### ToDo's
+- [ ] Add blahblah
