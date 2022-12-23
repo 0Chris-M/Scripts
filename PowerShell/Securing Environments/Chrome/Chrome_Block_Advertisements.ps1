@@ -1,3 +1,6 @@
+# Pulls uBlock Origin from Official Repository in Chrome store and installs to Chrome. 
+# As this is placed on the forced extension list, user cannot turn off or remove
+
 $chrmext = Test-Path -Path HKLM:\Software\Policies\Google\Chrome\ExtensionInstallForcelist
 If ($chrmext -eq $False)
 {
