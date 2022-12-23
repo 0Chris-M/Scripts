@@ -6,7 +6,7 @@ A collection of scripts i've developed to assist with SOC Analyst role
 
 Feel free to message me or open issues if you have any questions.
 
-Go forth and protect, my fellow Analysts =D
+Go forth and protect, my fellow Analysts/Admins =D
 
 
 
