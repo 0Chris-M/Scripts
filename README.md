@@ -4,6 +4,8 @@ A collection of scripts i've developed to assist with SOC Analyst role - (incide
 
 Feel free to open issues or message me if you have any questions.
 
+Go forth and protect my fellow Analyst =D
+
 
 ### Main Folder
 
