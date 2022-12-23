@@ -1,6 +1,7 @@
 # SCRIPTS
 
-A collection of scripts i've developed to assist with SOC Analyst role - (incident response, investigations, and general alert triage)
+A collection of scripts i've developed to assist with SOC Analyst role
+(Incident Response, Investigations, and general Alert Triage)
 
 
 Feel free to open issues or message me if you have any questions.
