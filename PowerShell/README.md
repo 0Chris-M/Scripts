@@ -6,7 +6,7 @@
 Scripts used to audit Microsoft environments and Windows machines. 
 
 ### Investigations\Incident Response
-Scripts used during Cyber Incident Response scenarios, as well as Investigations of detection and alerts. 
+Scripts used during Investigations of detection and alerts, as well as Cyber Incident Response scenarios. 
 
 
 ### Securing Environments
