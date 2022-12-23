@@ -1,5 +1,6 @@
 # Disables the USB port for USB Storage only, and Deny's R/W/X capabilities. This Policy applies to the Local Machine. 
 # Peripheral Devices (mouse, KB, Printer, etc.) are unaffected.
+# Requires system reboot for changes to take effect
 $remusb = Test-Path -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\RemovableStorageDevices"
 If ($remusb -eq $False)
 {
