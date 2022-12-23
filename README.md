@@ -12,6 +12,6 @@ Go forth and protect, my fellow Analysts =D
 
 ### Main Folder
 
-- PowerShell -> ps1 scripts used for Investigations and Incident Response.
-- Python -> Usefull python scripts i've banged out
+- PowerShell -> Powershell scripts used for Investigations, Incident Response, as well as Securing Environments.
+- Python -> tba
 - Shell -> tba
