@@ -12,6 +12,6 @@ Go forth and protect, my fellow Analysts =D
 
 ### Main Folder
 
-- PowerShell -> Powershell scripts used for Investigations, Incident Response, as well as Securing Environments.
+- PowerShell -> Powershell scripts used for Investigations, Incident Response, as well as Securing and Auditing Environments.
 - Python -> tba
 - Shell -> tba
