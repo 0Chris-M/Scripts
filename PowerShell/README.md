@@ -13,4 +13,5 @@
 
 
 ### ToDo's
-- [ ] Office Hardening -> Echo script progress and tasks completed 
+- [ ] Office Hardening -> Echo script progress and tasks completed
+- [ ] Office Hardening -> Reassess loaded hives code and for loop
