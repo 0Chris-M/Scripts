@@ -16,6 +16,8 @@ Scripts used to Secure Microsoft Windows environments, and commonly used Windows
 
 
 ### ToDo's
+- [ ] Commenting -> Comment code appropriately
+- [ ] Docs -> Upload docs for Macros and Office scripts
 - [ ] Office Hardening -> Echo script progress and tasks completed
 - [ ] Office Hardening -> Reassess loaded hives code and for loop
 - [ ] Office Hardening -> Test Zone.Identifier for proper Internet Macros blocking
