@@ -5,7 +5,7 @@
 ### Auditing
 Scripts used to audit Microsoft environments and Windows machines. 
 
-### Investigations/Incident Response
+### Investigations\Incident Response
 Scripts used during Cyber Incident Response scenarios, as well as Investigations. 
 
 
