@@ -14,6 +14,7 @@
   - Office-Macros_Restore_Securely_Enable.ps1 -> Restore all settings/reg keys changed in above script.
 - Office_Hardening.ps1 -> Implements several strategies to reduce the Attack Surface of Microsoft Office environments.
   - Office_Restore_Hardening.ps1 -> Restore all settings/reg keys changed in above script.
+- Office_Follina_Mitigation.ps1 -> 
 
 
 
