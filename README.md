@@ -1,14 +1,13 @@
 # SCRIPTS
 
 A collection of scripts i've developed to assist with SOC Analyst role
-(Incident Response, Investigations, general Alert Triage, and Securing Environments)
+<br>(Incident Response, Investigations, general Alert Triage, as well as Auditing and Securing Environments)
 
 
 Feel free to message me or open issues if you have any questions.
 
-Go forth and protect, my fellow Analysts/Admins =D
-
-
+Go forth and defend, my fellow Analysts.
+<br>“The sword of destiny has two edges. You are one of them.” ― Andrzej Sapkowski, 'The Witcher'.
 
 ### Main Folder
 
