@@ -22,4 +22,4 @@ Scripts used to Secure Microsoft Windows environments, and commonly used Windows
 - [ ] Office Hardening -> error handling for restore scripts
 - [ ] Office Hardening -> Better Test-Path logic; List office products, for loop; re-usable variables
 - [ ] Commenting -> Comment code appropriately
-- [ ] Docs -> Create and upload docs for relevant advanced scripts
+- [ ] Docs -> Create and upload docs for relevant scripts
